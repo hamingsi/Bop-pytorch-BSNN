@@ -1,0 +1,7 @@
+[2024-03-01 21:06:32,493][main_training_parallel.py][line:154][INFO] start training!
+[2024-03-01 21:08:01,215][main_training_parallel.py][line:171][INFO] Epoch:[0/300]	 loss=1632.06955	 acc=20.744
+[2024-03-01 21:08:09,822][main_training_parallel.py][line:174][INFO] Epoch:[0/300]	 Test acc=29.250
+[2024-03-01 21:08:09,823][main_training_parallel.py][line:180][INFO] Best Test acc=29.250
+[2024-03-01 21:09:40,163][main_training_parallel.py][line:171][INFO] Epoch:[1/300]	 loss=1451.41039	 acc=30.954
+[2024-03-01 21:09:49,697][main_training_parallel.py][line:174][INFO] Epoch:[1/300]	 Test acc=37.020
+[2024-03-01 21:09:49,698][main_training_parallel.py][line:180][INFO] Best Test acc=37.020

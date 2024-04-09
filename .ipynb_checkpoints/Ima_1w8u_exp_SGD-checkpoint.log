@@ -1,0 +1,25 @@
+[2024-02-29 09:33:11,930][main_training_parallel.py][line:153][INFO] start training!
+[2024-02-29 09:33:39,656][main_training_parallel.py][line:170][INFO] Epoch:[0/300]	 loss=473.73739	 acc=12.516
+[2024-02-29 09:33:42,447][main_training_parallel.py][line:173][INFO] Epoch:[0/300]	 Test acc=23.290
+[2024-02-29 09:33:42,448][main_training_parallel.py][line:179][INFO] Best Test acc=23.290
+[2024-02-29 09:34:07,229][main_training_parallel.py][line:170][INFO] Epoch:[1/300]	 loss=420.66847	 acc=20.094
+[2024-02-29 09:34:10,343][main_training_parallel.py][line:173][INFO] Epoch:[1/300]	 Test acc=27.830
+[2024-02-29 09:34:10,344][main_training_parallel.py][line:179][INFO] Best Test acc=27.830
+[2024-02-29 09:34:32,112][main_training_parallel.py][line:170][INFO] Epoch:[2/300]	 loss=405.57888	 acc=23.686
+[2024-02-29 09:34:35,122][main_training_parallel.py][line:173][INFO] Epoch:[2/300]	 Test acc=28.800
+[2024-02-29 09:34:35,122][main_training_parallel.py][line:179][INFO] Best Test acc=28.800
+[2024-02-29 09:35:00,424][main_training_parallel.py][line:170][INFO] Epoch:[3/300]	 loss=392.44053	 acc=26.240
+[2024-02-29 09:35:03,561][main_training_parallel.py][line:173][INFO] Epoch:[3/300]	 Test acc=34.550
+[2024-02-29 09:35:03,562][main_training_parallel.py][line:179][INFO] Best Test acc=34.550
+[2024-02-29 09:35:28,878][main_training_parallel.py][line:170][INFO] Epoch:[4/300]	 loss=381.68818	 acc=29.022
+[2024-02-29 09:35:31,885][main_training_parallel.py][line:173][INFO] Epoch:[4/300]	 Test acc=40.140
+[2024-02-29 09:35:31,886][main_training_parallel.py][line:179][INFO] Best Test acc=40.140
+[2024-02-29 09:35:59,324][main_training_parallel.py][line:170][INFO] Epoch:[5/300]	 loss=373.58415	 acc=31.136
+[2024-02-29 09:36:03,174][main_training_parallel.py][line:173][INFO] Epoch:[5/300]	 Test acc=44.060
+[2024-02-29 09:36:03,175][main_training_parallel.py][line:179][INFO] Best Test acc=44.060
+[2024-02-29 09:36:32,563][main_training_parallel.py][line:170][INFO] Epoch:[6/300]	 loss=367.42859	 acc=32.114
+[2024-02-29 09:36:36,409][main_training_parallel.py][line:173][INFO] Epoch:[6/300]	 Test acc=43.500
+[2024-02-29 09:36:36,409][main_training_parallel.py][line:179][INFO] Best Test acc=44.060
+[2024-02-29 09:37:05,484][main_training_parallel.py][line:170][INFO] Epoch:[7/300]	 loss=359.15004	 acc=34.030
+[2024-02-29 09:37:09,313][main_training_parallel.py][line:173][INFO] Epoch:[7/300]	 Test acc=40.500
+[2024-02-29 09:37:09,313][main_training_parallel.py][line:179][INFO] Best Test acc=44.060
